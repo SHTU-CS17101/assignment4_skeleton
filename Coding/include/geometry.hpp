@@ -89,8 +89,6 @@ protected:
 	std::vector<int> normals_index;
 	/* Is uniform grid established */
 	bool has_grid;
-	/* The uniform grids */
-	Grid uniform_grid;
 
 	/* Test whether the given ray is intersected with the triangle (v0_idx, v1_idx, v2_idx) */
 	bool raySingleTriangleIntersection(Interaction& interaction, const Ray& ray, int v0_idx, int v1_idx, int v2_idx) const;
