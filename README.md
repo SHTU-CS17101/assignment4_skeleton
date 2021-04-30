@@ -1,4 +1,4 @@
-# Assignment 3: Ray Tracing with Global Illumination
+# Assignment 4: Ray Tracing with Global Illumination
 
 - Student Name:
 - Student ID:
